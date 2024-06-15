@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://riefomoryom.github.io/sitemap
+Sitemap: https://riefomoryom.github.io/app/sitemap
+Sitemap: https://riefomoryom.github.io/assets/sitemap
+Sitemap: https://riefomoryom.github.io/css/sitemap
+Sitemap: https://riefomoryom.github.io/includes/sitemap
+Sitemap: https://riefomoryom.github.io/item/sitemap
+Sitemap: https://riefomoryom.github.io/src/sitemap
